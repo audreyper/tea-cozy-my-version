@@ -32,4 +32,4 @@ https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.j
 
 This was a practice project from the Full Stack program at Codeacademy.
 
-I built my own version of the website including responsiveness and better UI/UX design. 
+I didn't follow all of the instructions about the spec provided. I rather built my own version of the website including responsiveness and better UI/UX design. 
