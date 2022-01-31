@@ -1,5 +1,5 @@
 
-# Codecademy off-platform Tea cozy project 🫖 
+# Codecademy off-platform Tea Cozy project 🫖 
 
 ## Project Goals
 
