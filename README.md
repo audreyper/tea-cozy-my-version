@@ -24,11 +24,12 @@ git clone https://github.com/audreyper/tea-cozy-my-version.git
 
 Open "index.html" file.
 
-The spec is included in the repository.
+You can check the spec at the following address : 
+https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg
 
 
 ## Challenges and Credits
 
-This was a practice project from the full stack program at Codeacademy.
+This was a practice project from the Full Stack program at Codeacademy.
 
-I built my own version of the website.  
+I built my own version of the website including responsiveness and better UI/UX design. 
