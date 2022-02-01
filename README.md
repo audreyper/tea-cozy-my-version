@@ -30,6 +30,7 @@ https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.j
 
 ## Challenges and Credits
 
-This was a practice project from the Full Stack program at Codeacademy.
+This was a practice project using only Flexbox from the Full Stack program at Codeacademy.
+
 
 I didn't follow all of the instructions about the spec provided. I rather built my own version of the website including responsiveness and better UI/UX design. 
